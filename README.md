@@ -5,3 +5,4 @@
 ## Установка и запуск
 Перед началом использования разверните [сервер](https://github.com/AnLobanov/fiscalcheck)
 Запустите скрипт fc-client.py перед запуском любого обычного кассового ПО
+Необходимо, чтобы рядом со скриптом в той же директории находилась [библиотека libfptr10.py](https://integration.atol.ru/api/?utm_source=google.com&utm_medium=organic&utm_campaign=google.com&utm_referrer=google.com#podklyuchenie-k-proektu) и были установлены драйвера для ККМ
